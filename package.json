@@ -1,0 +1,10 @@
+{
+  "name": "react",
+  "version": "1.0.1",
+  "description": "Expense Tracker BootCamp",
+  "main": "index.js",
+  "repository": "MUHammadUmerHayat",
+  "author": "Muhammad Umer Hayat",
+  "license": "1.0.2",
+  "private": true
+}

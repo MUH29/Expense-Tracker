@@ -34,4 +34,4 @@ jobs:
 
     # Deploy App to Surge
     - name: Deploying Project to Surge
-      run: surge ./ adilaltaf_jsprojects.surge.sh --token ${{ secrets.SURGE_TOKEN }}
+      run: surge ./ expense-trackesr.sh --token ${{ secrets.SURGE_TOKEN }}
